@@ -1,0 +1,15 @@
+h1{
+    color: red;
+}
+li{
+    color: blue;
+    font-size: larger;
+    border: 1px solid black;
+    background-color: lightcoral;
+}
+body{
+    background-color: aqua;
+}
+footer{
+    align-content: center;
+}
